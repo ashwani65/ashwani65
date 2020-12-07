@@ -1,7 +1,7 @@
 ### Hi there, I'm Ashwani 👋
 
 ## I'm a Full-Stack Web Developer and Competitive Programmer!
-- 🌱 I’m currently learning how to react😂
+- 🌱 I’m currently learning how to react 😂
 - ⚡ Fun fact: I love to play chess and watch Documentries
 
 ### Connect with me:
