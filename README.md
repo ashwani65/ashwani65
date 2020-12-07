@@ -7,8 +7,8 @@
 ### Connect with me:
 
 [<img align="left" alt="#" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ashwani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ashwani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ashwani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ashwani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ashwani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -35,7 +35,6 @@
 
 [website]: https://ashwani65.blogspot.com/
 [linkedin]: https://www.linkedin.com/in/ashwani-singh-5b1868165/
-[twitter]: https://twitter.com/
 [facebook]: https://www.facebook.com/profile.php?id=100029113452228
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/as.hwani698/
