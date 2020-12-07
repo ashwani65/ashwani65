@@ -2,7 +2,7 @@
 
 ## I'm a Full-Stack Web Developer and Competitive Programmer!
 - 🌱 I’m currently learning how to react 😂
-- ⚡ Fun fact: I love to play chess and watch Documentries
+- ⚡ Fun fact: I love to code,play chess and watch Documentries
 
 ### Connect with me:
 
