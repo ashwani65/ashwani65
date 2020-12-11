@@ -38,6 +38,7 @@
 <br />
 
 ---
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ashwani65)](https://github.com/ashwani65/github-readme-stats)
 
 [website]: https://ashwani65.blogspot.com/
 [linkedin]: https://www.linkedin.com/in/ashwani-singh-5b1868165/
