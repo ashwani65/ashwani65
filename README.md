@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning how to react 😂
 - ⚡ Fun fact: I love to code,play chess and watch Documentries
 
+![](https://komarev.com/ghpvc/?username=ashwani65)
+
 ### Connect with me:
 
 [<img align="left" alt="ashwani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
