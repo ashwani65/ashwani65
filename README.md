@@ -6,6 +6,9 @@
 
 ![](https://komarev.com/ghpvc/?username=ashwani65)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashwani65)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### Connect with me:
 
 [<img align="left" alt="ashwani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
