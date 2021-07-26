@@ -1,7 +1,6 @@
 ### Hi there, I'm Ashwani 👋
 
 ## I'm a Full-Stack Web Developer and Competitive Programmer!
-- 🌱 I’m currently learning how to react 😂
 - ⚡ Fun fact: I love to code,play chess and watch Documentries
 
 ![](https://komarev.com/ghpvc/?username=ashwani65)
