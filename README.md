@@ -1,7 +1,7 @@
 ### Hi there, I'm Ashwani 👋
 
 ## I'm a Full-Stack Web Developer and Competitive Programmer!
-- ⚡ Fun fact: I love to code,play chess and watch Documentries
+- ⚡ Fun fact: I love to Code, play Chess and watch Documentries
 
 ![](https://komarev.com/ghpvc/?username=ashwani65)
 
@@ -41,4 +41,4 @@
 [website]: https://ashwani65.blogspot.com/
 [linkedin]: https://www.linkedin.com/in/ashwani-singh-5b1868165/
 [facebook]: https://www.facebook.com/profile.php?id=100029113452228
-[instagram]: https://www.instagram.com/as.hwani698/
+[instagram]: https://www.instagram.com/as.hwani01/
