@@ -1,6 +1,6 @@
 # Ashwani Singh
 
-👨‍💻 **Senior Software Engineer** | 🚀 **AI/ML Enthusiast** | 🏗️ **System Architect**
+👨‍💻 **Senior Software Engineer** | 🚀 **AI/ML & GenAI** | 🏗️ **System Architect**
 
 Passionate full-stack developer with 3+ years of experience building scalable B2B SaaS products. I specialize in backend architecture, system design, and leading high-performance teams to deliver robust solutions that serve thousands of users.
 
