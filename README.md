@@ -2,7 +2,13 @@
 
 👨‍💻 **Senior Software Engineer** | 🚀 **AI/ML & GenAI** | 🏗️ **System Architect**
 
-Passionate full-stack developer with 4+ years of experience building scalable B2B SaaS products. I specialize in backend architecture, system design, and leading high-performance teams to deliver robust solutions that serve thousands of users.
+I’m a curious and passionate engineer who loves building and scaling systems that power real-world products. Over the past few years, I’ve worked in Fintech and B2B SaaS, designing and optimizing systems that handle high traffic, real-time data processing, and complex workflows.
+
+I specialize in backend architecture, API design, and scalable systems, primarily using Node.js, Python, Django, and FastAPI. I work extensively with AWS, Docker, PostgreSQL, and Redis, ensuring reliability and efficiency in production. Currently, I lead the backend development of a B2B SaaS platform, collaborating with product managers, engineers, and business teams to turn ideas into impactful software.
+
+I’m also deeply interested in AI and Generative AI and have been exploring and learning Deep Learning, LLMs, and AI-driven applications to integrate intelligent capabilities into the products. Staying updated with emerging technologies is something I truly enjoy, whether it's in AI, cloud infrastructure, or backend architecture.
+
+I love solving engineering challenges, optimizing performance, and designing scalable systems. If you’re into backend engineering, AI, or just enjoy discussing tech, let’s connect!.
 
 ## 🛠️ Tech Stack
 **Backend:** Node.js, Python, Django, PostgreSQL, Redis  
